@@ -6,5 +6,5 @@ class Test:
         print("sum of two nums:",x+y)
 t1=Test()
 t1.add()
-t2=add()
+t2=Test()
 t2.add()
